@@ -1,0 +1,1 @@
+# 1D-Magnetotelluric-Inversion
