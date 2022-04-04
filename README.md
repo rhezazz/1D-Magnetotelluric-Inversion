@@ -1,2 +1,2 @@
 # 1D-Magnetotelluric-Inversion
-Several matlab program for magnetotelluric data 1D modelling inversion using various algorithm.
+Several matlab program for magnetotelluric data 1D inversion modelling using various algorithm.
